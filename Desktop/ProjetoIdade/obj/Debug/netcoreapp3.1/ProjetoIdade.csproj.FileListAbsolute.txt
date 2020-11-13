@@ -1,0 +1,11 @@
+C:\Users\dev\Desktop\ProjetoIdade\bin\Debug\netcoreapp3.1\ProjetoIdade.exe
+C:\Users\dev\Desktop\ProjetoIdade\bin\Debug\netcoreapp3.1\ProjetoIdade.deps.json
+C:\Users\dev\Desktop\ProjetoIdade\bin\Debug\netcoreapp3.1\ProjetoIdade.runtimeconfig.json
+C:\Users\dev\Desktop\ProjetoIdade\bin\Debug\netcoreapp3.1\ProjetoIdade.runtimeconfig.dev.json
+C:\Users\dev\Desktop\ProjetoIdade\bin\Debug\netcoreapp3.1\ProjetoIdade.dll
+C:\Users\dev\Desktop\ProjetoIdade\bin\Debug\netcoreapp3.1\ProjetoIdade.pdb
+C:\Users\dev\Desktop\ProjetoIdade\obj\Debug\netcoreapp3.1\ProjetoIdade.csprojAssemblyReference.cache
+C:\Users\dev\Desktop\ProjetoIdade\obj\Debug\netcoreapp3.1\ProjetoIdade.AssemblyInfoInputs.cache
+C:\Users\dev\Desktop\ProjetoIdade\obj\Debug\netcoreapp3.1\ProjetoIdade.AssemblyInfo.cs
+C:\Users\dev\Desktop\ProjetoIdade\obj\Debug\netcoreapp3.1\ProjetoIdade.dll
+C:\Users\dev\Desktop\ProjetoIdade\obj\Debug\netcoreapp3.1\ProjetoIdade.pdb
